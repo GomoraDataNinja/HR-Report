@@ -1,4 +1,4 @@
-# HR-Report
+
 # HR_BI REPORT DOCUMENTATION
 ## Description 
 I have developed a comprehensive Power Bi  project , with detailed visualizations and insights on the Human Resources and employee performances. The major skill presented in this report is on page navigation. All the pages were navigated to allow the easy access of pages.
